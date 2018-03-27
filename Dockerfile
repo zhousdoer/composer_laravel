@@ -1,4 +1,4 @@
-FROM node
+FROM composer
 
 MAINTAINER ZHOU ZHOUQUAN <zhoucoo@qq.com>
 
